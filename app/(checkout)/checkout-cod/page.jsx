@@ -1,4 +1,4 @@
-/*import Footer from "@/app/components/Footer";
+import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
 import { admin, adminDB } from "@/lib/firebase_admin";
 import Link from "next/link";
@@ -96,4 +96,4 @@ export default async function Page({ searchParams }) {
       <Footer />
     </main>
   );
-}*/
+}
