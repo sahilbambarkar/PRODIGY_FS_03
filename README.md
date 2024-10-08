@@ -121,12 +121,12 @@ service cloud.firestore {
 
 ## Demo
 
-You can explore the demo of the e-commerce website at [this link](https://docs-reader-store.vercel.app). 
+
 
 To access the Admin Panel, use the following credentials:
 
 - **Email**: admin@gmail.com
-- **Password**: helloworld
+- **Password**: helloworld1234
 
 (Note: This demo admin account has read and write permissions disabled for security purposes.)
 
