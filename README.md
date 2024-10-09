@@ -124,8 +124,8 @@ service cloud.firestore {
 
 
 To access the Admin Panel, use the following credentials:
-
-```- **Email**: admin@gmail.com
+```
+ **Email**: admin@gmail.com
 - **Password**: helloworld1234
 ```
 
