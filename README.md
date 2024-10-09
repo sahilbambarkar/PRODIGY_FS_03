@@ -117,16 +117,17 @@ service cloud.firestore {
 ```
 
 
-```
 
-## Demo
+
+
 
 
 
 To access the Admin Panel, use the following credentials:
 
-- **Email**: admin@gmail.com
+```- **Email**: admin@gmail.com
 - **Password**: helloworld1234
+```
 
 (Note: This demo admin account has read and write permissions disabled for security purposes.)
 
